@@ -1,0 +1,9 @@
+{
+    "application": "themesandbox", 
+    "identifier": "plain", 
+    "name": "Plain", 
+    "author": "LeafStorm",
+    "license": "MIT/X11",
+    "description": "An easy-to-read, green-based theme!",
+    "version": "1.0.0"
+}
